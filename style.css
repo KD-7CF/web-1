@@ -1,0 +1,81 @@
+body {
+	color: rgba(255,255,255,1);
+	background-color: rgba(100,100,100,1);
+}
+
+header {
+	position: absolute;
+	top: 	1%;
+	left: 1%;
+	width: 98%;
+	height: 20%;
+	min-height: 80px;
+	border-radius: 2.5%/50%;
+	margin:0% auto auto 0%;
+	background-color: rgba(50,50,50,1);
+}
+
+.txt-search {
+	position: absolute;
+	top: 39%;
+	right: 1%; 
+	width: 10%;
+	height: 20px;
+	border-radius: 5%/50%;
+	font-family: sans-serif;
+	font-size: 100%;
+}
+
+.btn-search {
+	position: absolute;
+	top: 39%;
+	right: 12.5%;
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+	border-radius: 50%/50%;
+	background:url(./img/i1.png);
+	background-size: cover;	
+}
+
+nav {
+	position: absolute;
+	top: 22%;
+	left: 1%;
+	width: 25%;
+	height: 60%;	
+	min-height: 100px;
+	border-radius: 10%/10%;
+	background-color: rgba(50,50,50,1);
+	z-index: 1;
+}
+
+.section-0 {
+	position: absolute;
+	top: 	22%;
+	left: 27%;
+	width: 72%;
+	height: 60%;
+	min-height: 100px;
+	border-radius: 3.5%/10%;
+	background-color: rgba(80,80,80,1);
+	z-index: 1;
+}
+
+footer {
+	position: absolute;
+	left:1%;
+	bottom: 1%;
+	width: 98%;
+	height: 16%;
+	min-height: 80px;
+	border-radius: 2.5%/50%;
+	background-color: rgba(50,50,50,1);	
+	z-index: 0;
+}
+
+
+
+
+
+
